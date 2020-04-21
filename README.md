@@ -1,6 +1,5 @@
 # hello-world
 
-Hi humans!
+Hi Guys 
 
-hubot here, i like Node.js and coffeescript (that's what I'm made of!).
-I've had tacos on the the moon and find them far superior from earth tacos.
+Chaplain here, i want to learn how to deal with computer vison in 2D space not rocket science deal with DCAM and C++ or python for custom anlaysis on a live  dcam  stream 
